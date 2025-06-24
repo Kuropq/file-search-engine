@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Artar/OneDrive/Documents/GitHub/file-search-engine/build/EP[1]_tests.cmake")
+  include("C:/Users/Artar/OneDrive/Documents/GitHub/file-search-engine/build/EP[1]_tests.cmake")
+else()
+  add_test(EP_NOT_BUILT EP_NOT_BUILT)
+endif()

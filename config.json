@@ -1,0 +1,27 @@
+{
+    "config": {
+        "name": "SkillboxSearchEngine",
+        "version": "0.1",
+        "max_responses": 5
+    },
+    "files": [
+        "E:\\develop\\QT\\EP\\resources\\file001.txt",
+        "E:\\develop\\QT\\EP\\resources\\file002.txt",
+        "E:\\develop\\QT\\EP\\resources\\file003.txt",
+        "E:\\develop\\QT\\EP\\resources\\file004.txt",
+        "E:\\develop\\QT\\EP\\resources\\file005.txt",
+        "E:\\develop\\QT\\EP\\resources\\file006.txt",
+        "E:\\develop\\QT\\EP\\resources\\file007.txt",
+        "E:\\develop\\QT\\EP\\resources\\file008.txt",
+        "E:\\develop\\QT\\EP\\resources\\file009.txt",
+        "E:\\develop\\QT\\EP\\resources\\file010.txt",
+        "E:\\develop\\QT\\EP\\resources\\file011.txt",
+        "E:\\develop\\QT\\EP\\resources\\file012.txt",
+        "E:\\develop\\QT\\EP\\resources\\file013.txt",
+        "E:\\develop\\QT\\EP\\resources\\file014.txt",
+        "E:\\develop\\QT\\EP\\resources\\file015.txt",
+        "E:\\develop\\QT\\EP\\resources\\file016.txt",
+        "E:\\develop\\QT\\EP\\resources\\file017.txt",
+        "E:\\develop\\QT\\EP\\resources\\file018.txt"
+    ]
+}
